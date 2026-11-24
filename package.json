@@ -1,0 +1,9 @@
+{
+  "name": "wechat-moments-swipe",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "test": "node --test tests/extension.test.mjs"
+  }
+}
